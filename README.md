@@ -17,7 +17,7 @@ C é uma linguagem de programação poderosa e versátil, amplamente utilizada e
 ## 🗂️ Estrutura do Repositório
 
 - **/exercicios**: Resolução de exercícios básicos e intermediários.
-- **/projetos**: Projetos mais elaborados, como jogos simples, algoritmos, etc.
+
 - **/desafios**: Problemas desafiadores para testar habilidades.
 - **/notas**: Anotações e resumos teóricos sobre C.
 
@@ -46,7 +46,7 @@ C é uma linguagem de programação poderosa e versátil, amplamente utilizada e
 Aqui está uma visão geral de onde estou na minha jornada:
 - [x] Conceitos básicos
 - [x] Estruturas de controle
-- [ ] Estruturas de dados
+- [x] Estruturas de dados
 - [ ] Manipulação avançada de arquivos
 - [ ] Projetos completos
 
@@ -57,8 +57,8 @@ Se você também está aprendendo C ou tem sugestões para melhorias neste repos
 ## 📫 Contato
 
 Se quiser trocar ideias ou compartilhar dicas, entre em contato:
-- **Email**: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-- **LinkedIn**: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
+- **Email**: [Meu Email](alyssonsamueldasilva6@gmail.com)
+- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/alysson-samuel-da-silva-21754b2aa/)
 
 ---
 
