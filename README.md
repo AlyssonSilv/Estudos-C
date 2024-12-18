@@ -44,9 +44,9 @@ C é uma linguagem de programação poderosa e versátil, amplamente utilizada e
 ## 📈 Progresso
 
 Aqui está uma visão geral de onde estou na minha jornada:
-- [x] Conceitos básicos
-- [x] Estruturas de controle
-- [x] Estruturas de dados
+- [V] Conceitos básicos
+- [V] Estruturas de controle
+- [V] Estruturas de dados
 - [ ] Manipulação avançada de arquivos
 - [ ] Projetos completos
 
